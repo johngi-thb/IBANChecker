@@ -1,0 +1,5 @@
+a simple gui program that has the ability to check wether or not an IBAN is valid
+and generate an IBAN from your account number bank number and country code
+so far only german IBANs are supported.
+
+the program contains JUnit tests.
